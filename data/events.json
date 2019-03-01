@@ -1,0 +1,1 @@
+[null,{"name":"WelcomeMessage","temp":"member","event-type":"6","actions":[{"channel":"5","varName":"member","message":"Bienvenue {tempVars(\"member\")} !\nSi tu veux un bon serveur discord :link: discord.gg/7RCeb6F\nTu peux y faire des rencontres, discuter etc ! On t'attend !","storage":"0","varName2":"","name":"Send Message"}]}]
